@@ -1,4 +1,4 @@
-package codes.chapter7;
+package codes.chapter7.class8;
 
 import java.util.Collections;
 import java.util.HashMap;

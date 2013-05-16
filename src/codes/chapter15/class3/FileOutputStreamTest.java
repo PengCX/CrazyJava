@@ -1,4 +1,4 @@
-package codes.chapter15;
+package codes.chapter15.class3;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

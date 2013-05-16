@@ -1,4 +1,4 @@
-package codes.chapter15;
+package codes.chapter15.class4;
 
 import java.io.IOException;
 import java.io.StringReader;
